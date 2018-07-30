@@ -1,7 +1,7 @@
 ---
 layout: page
-title: The Story
+title: About Us
 bigimg: /img/black-background-bubbles-clean-959271.jpg
 ---
 
-<center> At Black Durium, we value helping small business grow into successful business. Our mission is to use our expertise in consulting to guide small businesses to run as efficiently as possible. Black Durium is a small consulting company based out of Northern Virginia. We are excited to use our knowledge to help better the rise of small businesses. </center>
+<center> NoVA Bookkeeping and Accounting is committed to providing quality accounting service to small businesses in the northern virginia area. We can help you keep accurate financial records and to better understand your business's cash flow. Let us help take some of the stress of tax season away. We even provide technology solution such as website building. </center>
